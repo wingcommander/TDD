@@ -1,0 +1,6 @@
+c:\projects\TddPractice\TddPractice\obj\Debug\ResolveAssemblyReference.cache
+c:\projects\TddPractice\TddPractice\bin\Debug\TddPractice.dll
+c:\projects\TddPractice\TddPractice\bin\Debug\TddPractice.pdb
+c:\projects\TddPractice\TddPractice\bin\Debug\nunit.framework.dll
+c:\projects\TddPractice\TddPractice\obj\Debug\TddPractice.dll
+c:\projects\TddPractice\TddPractice\obj\Debug\TddPractice.pdb

@@ -1,0 +1,12 @@
+c:\projects\TddMockPractice\TddMockPractice\bin\Debug\TddMockPractice.dll
+c:\projects\TddMockPractice\TddMockPractice\bin\Debug\TddMockPractice.pdb
+c:\projects\TddMockPractice\TddMockPractice\bin\Debug\Moq.dll
+c:\projects\TddMockPractice\TddMockPractice\bin\Debug\nunit.framework.dll
+c:\projects\TddMockPractice\TddMockPractice\obj\Debug\ResolveAssemblyReference.cache
+c:\projects\TddMockPractice\TddMockPractice\obj\Debug\TddMockPractice.dll
+c:\projects\TddMockPractice\TddMockPractice\obj\Debug\TddMockPractice.pdb
+J:\Laptop\Users\Garvan\Work\BBC\TDD\TddMockPractice\TddMockPractice\bin\Debug\TddMockPractice.dll
+J:\Laptop\Users\Garvan\Work\BBC\TDD\TddMockPractice\TddMockPractice\bin\Debug\TddMockPractice.pdb
+J:\Laptop\Users\Garvan\Work\BBC\TDD\TddMockPractice\TddMockPractice\obj\Debug\ResolveAssemblyReference.cache
+J:\Laptop\Users\Garvan\Work\BBC\TDD\TddMockPractice\TddMockPractice\obj\Debug\TddMockPractice.dll
+J:\Laptop\Users\Garvan\Work\BBC\TDD\TddMockPractice\TddMockPractice\obj\Debug\TddMockPractice.pdb

@@ -1,0 +1,105 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="0" fromTop="0" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:description.txt" caret="0" fromTop="0" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGenerator.cs" caret="819" fromTop="28" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:description.txt" caret="239" fromTop="3" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="337" fromTop="14" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="1561" fromTop="21" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="1561" fromTop="10" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="1561" fromTop="14" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="1561" fromTop="26" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="1561" fromTop="15" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="1561" fromTop="9" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="112" fromTop="5" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="1558" fromTop="26" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="1558" fromTop="26" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="636" fromTop="20" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="1528" fromTop="26" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGenerator.cs" caret="386" fromTop="15" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGenerator.cs" caret="8" fromTop="0" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGenerator.cs" caret="461" fromTop="19" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGenerator.cs" caret="887" fromTop="30" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGenerator.cs" caret="461" fromTop="13" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGenerator.cs" caret="352" fromTop="8" />
+      <File id="3B0C0FC2-97F8-4DB6-83AB-16E462BF9F19/f:FizzBuzzNumberGeneratorTests.cs" caret="0" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="8" />
+      <Item value="void" priority="7" />
+      <Item value="var" priority="0" />
+      <Item value="CheckCanGenerateNumberOne`0" priority="0" />
+      <Item value="new" priority="1" />
+      <Item value="Is`0" priority="6" />
+      <Item value="TestFixture" priority="0" />
+      <Item value="return" priority="9" />
+      <Item value="throw" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="Assert`0" priority="6" />
+      <Item value="FizzBuzzNumberGenerator`0" priority="6" />
+      <Item value="number" priority="15" />
+      <Item value="Test" priority="5" />
+      <Item value="if" priority="4" />
+      <Item value="private" priority="3" />
+      <Item value="static" priority="4" />
+      <Item value="int" priority="4" />
+      <Item value="secondNumber" priority="0" />
+      <Item value="DivisbleBySecondNumber`0" priority="3" />
+      <Item value="class" priority="0" />
+      <Item value="bool" priority="2" />
+      <Item value="this" priority="0" />
+      <Item value="divisor" priority="0" />
+      <Item value="asrt" priority="0" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="string" priority="3" />
+      <Item value="returnValue" priority="4" />
+      <Item value="else" priority="0" />
+      <Item value="FirstNumberIsMultipleOfSecondNumber`0" priority="1" />
+      <Item value="IsMultipleOfThree`0" priority="0" />
+      <Item value="IsMultipleOfFive`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Is">
+      <Item value="EqualTo`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TddPractice.FizzBuzzNumberGenerator">
+      <Item value="GenerateResult`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="1" />
+      <Item value="DivisbleBy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="2" />
+      <Item value="ToString`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
